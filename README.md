@@ -1,8 +1,26 @@
+<a href="https://github.com/jason-n-tran">
+  <table align="left">
+    <tr>
+      <td>
+      🌐 Interactive Terminal Portfolio
+      </td>
+    </tr>
+  </table>
+</a>
+<a href="https://www.google.com/search?q=Jason+Tran">
+  <table align="right">
+    <tr>
+      <td>
+      <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/wave.gif" width="20px" height="20px">  Get in touch!
+      </td>
+    </tr>
+  </table>
+</a>
 <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/space-logo.svg">
 
 <h1 align="center">
   <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Jason+Tran....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+%F0%9F%91%8B;This+is+Jason+Tran....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -22,28 +40,8 @@
 </details>
 
 <p align="center">
-  <img src=https://github.com/jason-n-tran/jason-n-tran/blob/main/generated/languages.svg>
+  <img src=https://github.com/jason-n-tran/jason-n-tran/blob/main/generated/languages.svg/>
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=tokyonight">
-</p>
-<br />
-<a href="https://www.google.com/search?q=Jason+Tran">
-  <table align="left">
-    <tr>
-      <td>
-      <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/wave.gif" width="20px" height="20px">  Learn more about me
-      </td>
-    </tr>
-  </table>
-</a>
-<a href="https://github.com/jason-n-tran">
-  <table align="right">
-    <tr>
-      <td>
-      🌐 Interactive Terminal Portfolio
-      </td>
-    </tr>
-  </table>
-</a>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=tokyonight&v=1"/>
+</div>
