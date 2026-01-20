@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://github.com/jason-n-tran/jason-n-tran/blob/master/generated/languages.svg)
 
 <!--
 **jason-n-tran/jason-n-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
