@@ -1,27 +1,39 @@
 <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/space-logo.svg">
 
-## Hi there <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/wave.gif" width="5%">
-
 <h1 align="center">
   <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Jason+Tran....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-![](https://github.com/jason-n-tran/jason-n-tran/blob/main/generated/languages.svg)
+### ABOUT ME
 
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+𝚃𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝟷0 𝚝𝚢𝚙𝚎𝚜 𝚘𝚏 𝚙𝚎𝚘𝚙𝚕𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝚃𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚐𝚎𝚝 𝙱𝚒𝚗𝚊𝚛𝚢 𝚊𝚗𝚍 𝚝𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚍𝚘𝚗'𝚝...
 
-—Bill Gates
+<details>
+  <summary><h2>Tech Stack</h3></summary>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
+  <p>
+    𝙰𝚌𝚝𝚞𝚊𝚕𝚕𝚢, 𝙸 𝚘𝚗𝚕𝚢 𝚞𝚜𝚎 𝚘𝚗𝚎 𝚘𝚏 𝚝𝚑𝚘𝚜𝚎 𝚊𝚗𝚍 𝚕𝚒𝚜𝚝𝚒𝚗𝚐 𝚋𝚞𝚣𝚣𝚠𝚘𝚛𝚍𝚜 𝚍𝚘𝚎𝚜𝚗'𝚝 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚜𝚘 𝚌𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 <a href="https://github.com/jason-n-tran">𝚠𝚎𝚋𝚜𝚒𝚝𝚎.</a> 
+    <!-- <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white"> -->
+  </p>
+  
+</details>
 
-There are 10 types of people in the world. Those who get Binary and those who don't..
+<p align="center">
+  <img src=https://github.com/jason-n-tran/jason-n-tran/blob/main/generated/languages.svg>
+</p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=tokyonight">
+</p>
 <br />
 <a href="https://www.google.com/search?q=Jason+Tran">
   <table align="left">
     <tr>
       <td>
-      😊  Learn more about me!
+      <img src="https://github.com/jason-n-tran/jason-n-tran/blob/main/wave.gif" width="20px" height="20px">  Learn more about me
       </td>
     </tr>
   </table>
@@ -30,22 +42,8 @@ There are 10 types of people in the world. Those who get Binary and those who do
   <table align="right">
     <tr>
       <td>
-      🌐   Explore my blog!
+      🌐 Interactive Terminal Portfolio
       </td>
     </tr>
   </table>
 </a>
-<!--
-**jason-n-tran/jason-n-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
